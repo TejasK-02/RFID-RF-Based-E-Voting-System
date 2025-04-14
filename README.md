@@ -8,7 +8,8 @@ A smart and secure **IoT-based voting system** built with **ESP32**, **RFID**, a
 [![YouTube Demo](https://img.shields.io/badge/Watch%20Demo-YouTube-red?logo=youtube)](https://youtube.com/shorts/w2tXMks05K4?si=k-z5knKSpe7Tq8rl)
 [![Platform](https://img.shields.io/badge/Platform-ESP32-blue)](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/)
 [![License](https://img.shields.io/badge/License-MIT-brightgreen)](LICENSE)
-[![Made in India](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F-in%20India-orange)](https://en.wikipedia.org/wiki/Make_in_India)
+[![Made in India](https://img.shields.io/badge/Made%20in-%F0%9F%87%AE%F0%9F%87%B3%20India-orange)](https://en.wikipedia.org/wiki/Make_in_India)
+
 
 
 
