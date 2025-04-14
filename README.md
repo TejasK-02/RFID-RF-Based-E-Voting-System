@@ -68,7 +68,7 @@ A smart and secure **IoT-based voting system** built with **ESP32**, **RFID**, a
 ![Circuit](Docs/Simulations/circuit_image.png)
 
 ### 🧪 Real-Time Setup:
-![Setup](Docs/Simulations/20250412_185309.jpg)
+![Setup](Images/20250412_185309.jpg)
 
 ---
 
