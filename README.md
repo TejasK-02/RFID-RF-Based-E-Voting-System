@@ -52,6 +52,11 @@ A smart and secure **IoT-based voting system** built with **ESP32**, **RFID**, a
 
 ---
 
+## 🔌 Simulation Files
+
+- ⚡ [Download Circuit Simulation (.ckt)](Docs/Simulations/RFID & RF Based E-Voting System.ckt)
+
+
 ## 📸 Project Showcase
 
 ### 🔌 Circuit Diagram:
