@@ -56,6 +56,12 @@ A smart and secure **IoT-based voting system** built with **ESP32**, **RFID**, a
 
 ---
 
+## 🧾 Project Documents
+
+- 📄 [RFID & RF Based E-Voting System (PDF)](Docs/Project_Files/RFID%20%26%20RF%20Based%20E-Voting%20System.pdf)
+- 📊 [RFID & RF Based E-Voting System (PPTX)](Docs/Project_Files/RFID%20%26%20RF%20Based%20E-Voting%20System.pptx)
+
+
 ## 🔌 Simulation Files
 
 - ⚡ [⚡ Download Circuit Simulation (.ckt)](Docs/Simulations/RFID%20%26%20RF%20Based%20E-Voting%20System.ckt)
