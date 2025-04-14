@@ -1,7 +1,8 @@
 # RFID-RF-Based-E-Voting-System
 Smart RFID &amp; RF-based E-Voting system using ESP32, RC522, LCD, and Google Sheets. Features real-time vote logging, admin result view, countdown timer, and voter feedback with LEDs &amp; buzzer. Ideal for PBL projects and IoT-based secure voting prototypes.
 
-# 📡 RFID & RF Based E-Voting System
+# 🗳️ RFID & RF Based E-Voting System  
+_A secure, real-time e-voting system using RFID, ESP32, and Google Sheets integration._
 
 A smart and secure **IoT-based voting system** built with **ESP32**, **RFID**, and **Google Sheets** integration. Designed for real-time vote logging, result summarization, and LED/Buzzer feedback – perfect for academic projects, demo elections, and secure e-voting prototypes.
 
